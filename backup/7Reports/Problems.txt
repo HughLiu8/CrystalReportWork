@@ -1,0 +1,5 @@
+1.Actually Report 5 is the same as Report 1. 
+We can judge this by checking the example report.
+
+2. As for the last report, I need to know more information like what kind of field they need.
+And I find StdId exist under Inventory Availability Report of SnapTracker right now.
